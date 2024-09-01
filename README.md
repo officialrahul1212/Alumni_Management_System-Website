@@ -2,19 +2,115 @@
 
 #Output
 
-![screencapture-localhost-alumni-registration-php-2024-08-12-21_42_30](https://github.com/user-attachments/assets/752d2302-f985-4adc-81cf-ad9b37a502e3)
-
-![screencapture-localhost-alumni-registration-php-2024-08-12-21_42_30](https://github.com/user-attachments/assets/1d6452a5-7d98-4996-8fcd-25487c84d2d2)
-
-![screencapture-localhost-alumni-job-php-2024-08-12-22_15_45](https://github.com/user-attachments/assets/9b7ce79f-7afd-465e-b98a-dcc3ac4b1e53)
-
-![screencapture-localhost-alumni-job-view-php-2024-08-12-22_17_56](https://github.com/user-attachments/assets/e7971d50-8f69-4c3b-b7ed-b07819a9a0cc)
-
-![screencapture-localhost-alumni-event-details-php-2024-08-12-22_08_25](https://github.com/user-attachments/assets/c45a15db-ef2f-4cb1-90a1-412b4dc7c219)
-
-![screencapture-localhost-alumni-alumni-list-php-2024-08-12-22_30_14](https://github.com/user-attachments/assets/c321292f-b908-45d6-aca6-d696e009a7db)
+4.2 Input /Output  Design and its samples:
 
 
-![screencapture-localhost-alumni-gallery-php-2024-08-12-22_35_49](https://github.com/user-attachments/assets/0a7c5197-2799-4638-be54-0056d7158761)
+•	Registration Page:
+Name: Registration Page.
+Description: This page is for the new registrations of patients.
+Source: Home> Registration
 
-[Uploading alumni.docx…]()
+ ![image](https://github.com/user-attachments/assets/abe5d878-ac53-4411-8770-f9e2c4fb89af)
+
+
+
+	
+
+
+
+
+•	Login Page:
+
+Name: Login Page.
+Description: This page is for the already registered patient login.
+Source: Home > login now 
+
+![image](https://github.com/user-attachments/assets/69347a10-be37-4f4c-8fc3-1a3e85c2dda5)
+
+ 
+ 
+•	Home Page:
+Description: This page displays the Home Page of our Website.
+Source: login > Home
+
+
+![image](https://github.com/user-attachments/assets/4c5f8f7c-e3c9-4835-a75e-885bf4e21044)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+•	Alumni Events:
+Name: Alumni Events.
+Description: This page alumni can be view all.  .
+Source: : login > Home >View Events
+ 
+ ![image](https://github.com/user-attachments/assets/4bb315b1-b9d4-4a90-a6a8-930dc501ca1d)
+
+Click -> View Details
+ ![image](https://github.com/user-attachments/assets/1a7fd502-4fbd-4f05-804c-1011fca8c10f)
+
+
+•	Admin Dashbord:
+
+Name: admin Dashboard.
+Description: This page display basic information .
+Source: login > admin Dashboard 
+
+ ![image](https://github.com/user-attachments/assets/0da465a5-d005-49c3-a903-93e8438d2907)
+
+
+
+
+
+•	Admin Dashbord (Gallery):
+Name: Gallery.
+Description: This page display image & desc .
+Source: login > admin Dashboard >Gallery
+
+ 
+![image](https://github.com/user-attachments/assets/a345e8e0-381c-4b10-a857-672a3773b1c7)
+
+
+•	Admin Dashbord (Alumni List):
+
+Name: Alumni.
+Description: This page display all the alumni.
+Source: login > admin Dashboard >Alumni List
+
+
+ 
+
+![image](https://github.com/user-attachments/assets/7ea23642-b638-436d-a904-2d568b7f207d)
+
+
+
+
+Name: View Alumni.
+Description: This page the alumni details and verify the alumni.
+Source: login > admin Dashboard >Alumni List >View
+
+
+ ![image](https://github.com/user-attachments/assets/8c1108b1-f193-44de-9ff0-16d435803f96)
+
+
+#ETC
+
